@@ -1,6 +1,6 @@
-<h1 style="color:#FC5258">Line Coding Techniques</h1>
+<h1>Line Coding Techniques</h1>
 
-<p><span style="font-size:25px; color:#0091A1">L</span>ine coding is the process of converting digital data to digital signals. By this technique we can convert a sequence of bits to a digital signal. That is what implimented in this project.</p>
+<p><b>L</b>ine coding is the process of converting digital data to digital signals. By this technique we can convert a sequence of bits to a digital signal. That is what implemented in this project.</p>
 
 </br>
 
